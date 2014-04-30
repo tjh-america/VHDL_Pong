@@ -1,0 +1,113 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'halfClock'
+Slack : -8.649
+TNS   : -241.110
+
+Type  : Slow 1200mV 85C Model Setup 'horizontalPosition[0]'
+Slack : -4.010
+TNS   : -4.010
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK_50'
+Slack : 0.037
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'horizontalPosition[0]'
+Slack : -4.882
+TNS   : -4.882
+
+Type  : Slow 1200mV 85C Model Hold 'halfClock'
+Slack : -0.693
+TNS   : -1.062
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK_50'
+Slack : -0.055
+TNS   : -0.055
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'horizontalPosition[0]'
+Slack : -3.858
+TNS   : -409.123
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -4.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'halfClock'
+Slack : -1.285
+TNS   : -61.680
+
+Type  : Slow 1200mV 0C Model Setup 'halfClock'
+Slack : -7.917
+TNS   : -218.517
+
+Type  : Slow 1200mV 0C Model Setup 'horizontalPosition[0]'
+Slack : -3.693
+TNS   : -3.693
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK_50'
+Slack : 0.070
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'horizontalPosition[0]'
+Slack : -4.483
+TNS   : -4.483
+
+Type  : Slow 1200mV 0C Model Hold 'halfClock'
+Slack : -0.564
+TNS   : -0.825
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK_50'
+Slack : -0.043
+TNS   : -0.043
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'horizontalPosition[0]'
+Slack : -3.536
+TNS   : -350.835
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -4.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'halfClock'
+Slack : -1.285
+TNS   : -61.680
+
+Type  : Fast 1200mV 0C Model Setup 'halfClock'
+Slack : -3.577
+TNS   : -95.347
+
+Type  : Fast 1200mV 0C Model Setup 'horizontalPosition[0]'
+Slack : -1.589
+TNS   : -1.589
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK_50'
+Slack : 0.328
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'horizontalPosition[0]'
+Slack : -2.299
+TNS   : -2.299
+
+Type  : Fast 1200mV 0C Model Hold 'halfClock'
+Slack : -0.537
+TNS   : -0.999
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK_50'
+Slack : -0.125
+TNS   : -0.125
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -4.124
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'horizontalPosition[0]'
+Slack : -1.682
+TNS   : -111.382
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'halfClock'
+Slack : -1.000
+TNS   : -48.000
+
+------------------------------------------------------------
